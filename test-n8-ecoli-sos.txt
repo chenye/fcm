@@ -1,0 +1,22 @@
+%  --- Type of this file
+% --- 0 - data file: network structure, weights, data sequences are all provided
+% --- 1 - network structure is provided; weights are not provided; initial states are not provided
+1
+% --- Number of nodes
+8
+% --- Size of sequence data: number of sequences, number of data points per sequence
+4	49
+% --- Lambda
+5.000000 5.000000 5.000000 5.000000 5.000000 5.000000 5.000000 5.000000
+% --- Network Structure
+% ----- Number of edges in the network
+8
+% ----- Edge list
+2	1	1
+2	3	1
+2	4	1
+2	5	1
+2	6	1
+2	7	1
+2	8	1
+4	2	1
